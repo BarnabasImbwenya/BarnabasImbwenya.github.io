@@ -13,3 +13,16 @@ p {
   font-size: 18px;
   line-height: 1.6;
 }
+body {
+  background-color: #fff3cd;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+  max-width: 600px;
+  margin: auto;
+}
